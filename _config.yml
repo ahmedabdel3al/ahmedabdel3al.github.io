@@ -1,0 +1,15 @@
+title: CV | Ahmed Abdel3al
+description: Ahmed Abdelaal Resume.
+url: https://ahmedabdel3al.github.io
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
