@@ -47,7 +47,7 @@ experience:
   - role: Shobbak, Software Engineer
     time: Jul 2021 - Current
     company: Shobbak
-    details: |
+    details:
       - Led initiatives to optimize database performance by enhancing SQL queries, reducing query execution times, and improving data retrieval efficiency in Postgres.
       - Designed and implemented a robust cache layer using Redis to minimize database load and accelerate data access, resulting in significantly improved application response times.
       - Designed and implemented custom Elasticsearch analyzers to optimize search functionality, enhancing the search experience for users.
