@@ -11,9 +11,11 @@
                 {{exp.company}} 
                 <span class="time">{{exp.time}}</span>
             </div> 
+            <ul>
              {% for detail in exp.details  %}
-               <div class="skill">{{detail}}</div>
+               <li class="details">{{detail}}</div>
             {% endfor %}
+           </ul>
             <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
         </div>
        
