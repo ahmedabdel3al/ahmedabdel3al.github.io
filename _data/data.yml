@@ -15,19 +15,19 @@ languages:
   - idiom: Arabic
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2011-2015
+    university: Suez Canal University
 
 skills:
   - category: Backend
     skill:
-      - Go
-      - Rust
+      - php
+      - laravel
+      - redis
+      - Postgresql
+      - Elasticsearch
+      - Mysql
   - category: Frontend
     skill:
       - React
@@ -44,17 +44,19 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Shobbak, Software Engineer
+    time: Jul 2021 - Current
+    company: Shobbak
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Led initiatives to optimize database performance by enhancing SQL queries, reducing query execution times, and improving data retrieval efficiency in Postgres.
+      - Designed and implemented a robust cache layer using Redis to minimize database load and accelerate data access, resulting in significantly improved application response times.
+      - Designed and implemented custom Elasticsearch analyzers to optimize search functionality, enhancing the search experience for users.
+      - Implemented synonym handling within Elasticsearch to improve search results by recognizing and accommodating synonyms.
+      - Enhanced search scoring algorithms to prioritize relevant search results and improve user engagement.
+      - Collaborated with the mobile API team to ensure seamless data communication and integration between the backend and mobile applications.
+      - Managed data within Elasticsearch, ensuring its accuracy, reliability, and performance.
     technologies_used: |
-      Go, Angular, Typescript, C++
+      Laravel, Elasticsearch, Postgresql, Redis, React , Tailwindcss  
 
   - role: Researcher
     time: 2016-2020
