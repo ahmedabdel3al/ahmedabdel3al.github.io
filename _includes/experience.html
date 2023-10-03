@@ -15,9 +15,16 @@
                  {% endfor %}
              </ul>
            </section>
-            
-            <p class="degree">Technologies Used:{{exp.technologies_used}} </p>
-        </div>
+
+
+            <section class="languages">
+             <ul>   
+                 {% for tech in exp.technologies_used  %}
+                    <li class="idiom">{{detail}}</li>
+                 {% endfor %}
+             </ul>
+           </section>
+     </div>
        
     {% endfor %}
 </section>
