@@ -31,9 +31,9 @@ skills:
   - category: Frontend
     skill:
       - React
-      - Vue 
+      - Vue
       - Typescript
-      - Alpine js 
+      - Alpine js
       - Tailwindcss
   - category: DevOps
     skill:
@@ -43,15 +43,15 @@ skills:
   - category: Monitoring and Logging
     skill:
       - Grafana
-      - ELK   
+      - ELK
       - Newrelic
-      
-    
+
+
 
 # Profile
 profile: |
- 👋 Hello, I'm Ahmed AbdelAal, a seasoned software engineer with a passion for crafting innovative solutions and driving digital transformation.
-  I bring over 5 years of experience to the table and have had the privilege of contributing to a wide range of impactful projects across various sectors.
+  👋 Hello, I'm Ahmed AbdelAal, a seasoned software engineer with a passion for crafting innovative solutions and driving digital transformation.
+   I bring over 5 years of experience to the table and have had the privilege of contributing to a wide range of impactful projects across various sectors.
 
 # Experience
 experience:
@@ -67,29 +67,29 @@ experience:
       - Designed and implemented a robust cache layer using Redis to minimize database load and accelerate data access, resulting in significantly improved application response times.
       - Collaborated with the mobile API team to ensure seamless data communication and integration between the backend and mobile applications.
       - Played a key role in the successful migration of server infrastructure from AWS to Hetzner, optimizing costs while maintaining high availability and performance.
-    technologies_used: 
+    technologies_used:
       - Laravel
-      - Elasticsearch 
+      - Elasticsearch
       - Postgresql
       - Redis
       - Devops
-      - React 
-      - Tailwindcss 
-      
- - role:  Full Stack Developer , Digital Layers
+      - React
+      - Tailwindcss
+
+  - role:  Full Stack Developer , Digital Layers
     time: Dec 2020 - Jul 2021
     company: Digital Layers
     details:
       - Collaborated with the mobile API team to ensure seamless data communication and integration between the backend and mobile applications.
       - Developed and maintained a comprehensive dashboard using Laravel, Redis, Livewire, Alpine.js, and MySQL to facilitate inventory management for point of sale (POS) systems and services for clients.
       - Designed and developed a booking system, including workflows, to manage maintenance requests and replacements for POS systems, streamlining the process and improving customer service.
-    technologies_used: 
+    technologies_used:
       - Laravel
       - Mysql
       - Redis
-      - Alpine 
-      - livewire 
-      - Tailwindcss      
+      - Alpine
+      - livewire
+      - Tailwindcss
 
 publications:
   - title: Random title of paper. An interesting one.
