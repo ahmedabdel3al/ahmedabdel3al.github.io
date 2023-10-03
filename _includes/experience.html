@@ -18,10 +18,12 @@
 
 
             <section>
-                 <p class="degree">Technologies Used:</p>
-                 {% for tech in exp.technologies_used  %}
-                    <span class="idiom">{{tech}}</span>
-                 {% endfor %}
+                 <p>Technologies Used:</p>
+                 <div style="display: flex; flex-direction: column; gap: 0.25rem;">
+                     {% for tech in exp.technologies_used  %}
+                        <span class="idiom">{{tech}}</span>
+                     {% endfor %}
+                 </div>
            </section>
      </div>
        
