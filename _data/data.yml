@@ -55,20 +55,15 @@ experience:
       - Enhanced search scoring algorithms to prioritize relevant search results and improve user engagement.
       - Collaborated with the mobile API team to ensure seamless data communication and integration between the backend and mobile applications.
       - Managed data within Elasticsearch, ensuring its accuracy, reliability, and performance.
-    technologies_used: |
-      Laravel, Elasticsearch, Postgresql, Redis, React , Tailwindcss  
-
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: |
-      Python, Tensorflow, Keras, Matlab
+      - Played a key role in the successful migration of server infrastructure from AWS to Hetzner, optimizing costs while maintaining high availability and performance.
+    technologies_used: 
+      - Laravel
+      - Elasticsearch 
+      - Postgresql
+      - Redis
+      - Devops
+      - React 
+      - Tailwindcss  
 
 publications:
   - title: Random title of paper. An interesting one.
