@@ -31,11 +31,22 @@ skills:
   - category: Frontend
     skill:
       - React
+      - Vue 
       - Typescript
+      - Alpine js 
+      - Tailwindcss
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes
+      - Ansible
+      - CI/CD
+  - category: Monitoring and Logging
+    skill:
+      - Grafana
+      - ELK   
+      - Newrelic
+      
+    
 
 # Profile
 profile: |
@@ -48,13 +59,13 @@ experience:
     time: Jul 2021 - Current
     company: Shobbak
     details:
-      - Led initiatives to optimize database performance by enhancing SQL queries, reducing query execution times, and improving data retrieval efficiency in Postgres.
-      - Designed and implemented a robust cache layer using Redis to minimize database load and accelerate data access, resulting in significantly improved application response times.
+      - optimize database performance by enhancing SQL queries, reducing query execution times, and improving data retrieval efficiency in Postgres.
       - Designed and implemented custom Elasticsearch analyzers to optimize search functionality, enhancing the search experience for users.
       - Implemented synonym handling within Elasticsearch to improve search results by recognizing and accommodating synonyms.
       - Enhanced search scoring algorithms to prioritize relevant search results and improve user engagement.
-      - Collaborated with the mobile API team to ensure seamless data communication and integration between the backend and mobile applications.
       - Managed data within Elasticsearch, ensuring its accuracy, reliability, and performance.
+      - Designed and implemented a robust cache layer using Redis to minimize database load and accelerate data access, resulting in significantly improved application response times.
+      - Collaborated with the mobile API team to ensure seamless data communication and integration between the backend and mobile applications.
       - Played a key role in the successful migration of server infrastructure from AWS to Hetzner, optimizing costs while maintaining high availability and performance.
     technologies_used: 
       - Laravel
@@ -63,7 +74,22 @@ experience:
       - Redis
       - Devops
       - React 
-      - Tailwindcss  
+      - Tailwindcss 
+      
+ - role:  Full Stack Developer , Digital Layers
+    time: Dec 2020 - Jul 2021
+    company: Digital Layers
+    details:
+      - Collaborated with the mobile API team to ensure seamless data communication and integration between the backend and mobile applications.
+      - Developed and maintained a comprehensive dashboard using Laravel, Redis, Livewire, Alpine.js, and MySQL to facilitate inventory management for point of sale (POS) systems and services for clients.
+      - Designed and developed a booking system, including workflows, to manage maintenance requests and replacements for POS systems, streamlining the process and improving customer service.
+    technologies_used: 
+      - Laravel
+      - Mysql
+      - Redis
+      - Alpine 
+      - livewire 
+      - Tailwindcss      
 
 publications:
   - title: Random title of paper. An interesting one.
