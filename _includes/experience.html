@@ -17,11 +17,11 @@
            </section>
 
 
-            <section style="display: flex; flex-direction: row; gap: 0.25rem;">
-                 <span>Technologies Used:</span>
+            <section style="display: flex; flex-direction: row;">
+                 <span class="technologies">Stack:</span>
                  <div style="display: flex; flex-direction: row; gap: 0.25rem;">
                      {% for tech in exp.technologies_used  %}
-                        <span>{{tech}}</span>
+                        <span class="details">{{tech}}</span>
                      {% endfor %}
                  </div>
            </section>
